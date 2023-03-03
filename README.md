@@ -25,8 +25,6 @@ For a brief overview of these two toolboxes, 'MATLAB_code_HDMR_V1.0' is based on
 ## Authors
 
 * Vrugt, Jasper A. (jasper@uci.edu) 
-* Gao, Yifu (yifug1@uci.edu)   
-* Sahin, Abdullah (sahina@uci.edu)
 
 ## Version History
 
