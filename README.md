@@ -56,7 +56,7 @@ High-Dimensional Model Representation (HDMR) using B-spline functions for varian
 14. Example 24: One-predator-one-prey model
 15. Example 25: Two-predators-two-preys model
 16. Example 26: Two-predators-two-preys model with measured data
-17. Example 27  Simple multivariate function
+17. Example 27: Simple multivariate function
 
 ## Acknowledgments
 The MATLAB toolbox is based on the published works of Dr. Genyuan Li from Princeton University. We greatly appreciate his diligent responses to our questions. 
