@@ -31,6 +31,13 @@ High-Dimensional Model Representation (HDMR) using B-spline functions for varian
 
 * Vrugt, Jasper A. (jasper@uci.edu) 
 
+## Literature
+1. Gao, Y., C. Guilloteau, E. Foufoula-Georgiou, C. Xu, X. Sun, and J.A. Vrugt (2024), Soil moisture-cloud-precipitation feedback in the lower atmosphere from functional decomposition of satellite observations. Geophysical Research Letters, 51, e2024GL110347, https://doi.org/10.1029/2024GL110347
+2. Gao, Y., A. Sahin, and J.A. Vrugt (2023), Probabilistic Sensitivity Analysis With Dependent Variables: Covariance-Based Decomposition of Hydrologic Models, Water Resources Research, 59 (4), e2022WR0328346, https://doi.org/10.1029/2022WR032834
+3. Chastaing, G., F. Gamboa, and C. Prieur (2012), Generalized Hoeffding-Sobol decomposition for dependent variables - application to sensitivity analysis, _Electronic Journal of Statistics_, 6, pp. 2420–2448, https://doi.org/10.1214/12-EJS749
+4. Li, G. H. Rabitz, P.E. Yelvington, O.O. Oluwole, F. Bacon, C.E. Kolb, and J. Schoendorf (2010), Global sensitivity analysis for systems with independent and/or correlated inputs, _Journal of Physical Chemistry A_, 114 (19), pp. 6022-6032
+
+
 ## Version History
 
 * 1.0
