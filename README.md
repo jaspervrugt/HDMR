@@ -47,6 +47,7 @@ High-Dimensional Model Representation (HDMR) using B-spline functions for varian
     * New built-in case studies
 
 ## Built-in Case Studies
+
 1. Example 1: Multivariate normal benchmark study
 2. Example 2: Multivariate normal benchmark study with correlated variables, $\Sigma \neq I$dentity matrix
 3. Example 3: Multivariate normal benchmark study with correlated variables, $\Sigma \neq I$dentity matrix
